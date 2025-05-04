@@ -26,7 +26,7 @@ git checkout -b yourname
 ### 4. Add Your Work
 - Complete the homework locally (e.g., `Mid-Term_Project.ipynb`).
 - Put your completed notebook or code in a folder named `Mid-Term.
-- Add your reflection file as `reflection.md` or `reflection.pdf` in the same folder.
+- Add your reflection report as `report.md` or `report.pdf` in the same folder.
 
 ### 5. Commit and Push Your Changes
 After adding your work, commit and push your changes to your branch:
