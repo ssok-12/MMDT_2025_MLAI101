@@ -24,8 +24,8 @@ git checkout -b yourname
 > Example: `git checkout -b alex-chen`
 
 ### 4. Add Your Work
-- Complete the homework locally (e.g., `Mid-Term_Project.ipynb`).
-- Put your completed notebook or code in a folder named `Mid-Term.
+- Complete the homework locally (e.g., `<Mid-Term>_Project.ipynb`).
+- Put your completed notebook or code in a folder named `Mid-Term`.
 - Add your reflection report as `report.md` or `report.pdf` in the same folder.
 
 ### 5. Commit and Push Your Changes
@@ -39,13 +39,13 @@ git push origin yourname
 ### 6. Create a Pull Request
 - Go to your GitHub repository.
 - Click **“Compare & pull request”**.
-- Title the pull request as: `Mid-Term Project Submission - Your Name`
+- Title the pull request as: `<Mid-term> Project Submission - Your Name`
 - Confirm your changes and submit the pull request to the **main repository**.
 
 ## Summary Checklist
 - [ ] Forked the repo
 - [ ] Created a personal branch (e.g., `yourname`)
-- [ ] Added all required files in the `Mid-Term/` folder
+- [ ] Added all required files in the `[Yourname]/` folder
 - [ ] Wrote and included the reflection (≤300 words)
 - [ ] Committed & pushed changes
 - [ ] Opened a pull request to the main repository
